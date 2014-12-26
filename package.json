@@ -1,0 +1,23 @@
+{
+  "name": "places",
+  "version": "0.1",
+  "description": "Places - Show nearby places on map",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "~4.9.x"
+  },
+  "engines": {
+    "node": "0.10.x"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vvillee/places"
+  },
+  "keywords": [
+    "places"
+  ],
+  "license": "MIT"
+}
