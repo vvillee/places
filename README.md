@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/vvillee/places.png?label=ready&title=Ready)](https://waffle.io/vvillee/places)
 Places
 ======
 
