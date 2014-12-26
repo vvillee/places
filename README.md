@@ -23,4 +23,4 @@ There will be instructions.
 Technical notes
 ---------------
 
-This repo is deployable to Heroku
+Backend with Node.js and PostgreSQL database. This is deployable to Heroku.
