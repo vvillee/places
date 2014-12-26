@@ -20,4 +20,4 @@ There will be instructions.
 
 ### Technical notes
 
-Backend with Node.js and PostgreSQL database. This is deployable to Heroku.
+Backend with Node.js and MongoDB database. This is deployable to Heroku with MongoSoup addon
