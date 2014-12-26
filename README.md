@@ -12,7 +12,8 @@ This application displays places nearby you on a map. It is easy to use with mob
 
 1. Go to application URL
 2. Select your location (if not located automatically)
-3. Application shows you a route from your location to the nearest place
+3. Application shows you nearby places within the viewport
+4. Zoom the map in or out to see more or less places
 
 ### Instruction For Developer
 
