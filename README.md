@@ -6,14 +6,14 @@ Show places on map
 Overview
 --------
 
-This application displays the places nearby you on a map. It is easy to use with mobile or desktop browser. As the administrator you may configure the places and their location.
+This application displays places nearby you on a map. It is easy to use with mobile or desktop browser. As an administrator you may configure the places and their location.
 
 Instructions For User
 ---------------------
 
-1. Go to the URL
+1. Go to application URL
 2. Select your location (if not located automatically)
-3. View the route from your location to the nearest place
+3. Application shows you a route from your location to the nearest place
 
 Instruction For Developer
 -------------------------
