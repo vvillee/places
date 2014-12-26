@@ -1,6 +1,6 @@
 {
   "name": "places",
-  "version": "0.1",
+  "version": "0.0.1",
   "description": "Places - Show nearby places on map",
   "main": "index.js",
   "scripts": {
