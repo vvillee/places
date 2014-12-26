@@ -1,6 +1,6 @@
 [![Stories in Backlog](https://badge.waffle.io/vvillee/places.png?label=backlog&title=Backlog)](https://waffle.io/vvillee/places)
 [![Stories in Ready](https://badge.waffle.io/vvillee/places.png?label=ready&title=Ready)](https://waffle.io/vvillee/places)
-[![Stories in In Progress](https://badge.waffle.io/vvillee/places.png?label=in-progress&title=In%20Progress)](https://waffle.io/vvillee/places)
+[![Stories in In Progress](https://badge.waffle.io/vvillee/places.png?label=in%20progress&title=In%20Progress)](https://waffle.io/vvillee/places)
 [![Stories in Done](https://badge.waffle.io/vvillee/places.png?label=done&title=Done)](https://waffle.io/vvillee/places)
 
 Places
