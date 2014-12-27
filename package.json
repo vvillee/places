@@ -4,10 +4,13 @@
   "description": "Show nearby places on map",
   "main": "places.js",
   "scripts": {
-    "start": "node dist/places.js"
+    "start": "node dist/places.js",
+    "postinstall": "echo postinstall time; ./node_modules/grunt-cli/bin/grunt"
   },
   "dependencies": {
-    "express": "~4.9.x"
+    "express": "~4.9.x",
+    "grunt": "^0.4.5",
+    "grunt-cli": "^0.4.5"
   },
   "devDependencies": {
     "grunt": "^0.4.5",
