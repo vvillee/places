@@ -1,23 +1,34 @@
 {
   "name": "places",
   "version": "0.0.1",
-  "description": "Places - Show nearby places on map",
-  "main": "index.js",
+  "description": "Show nearby places on map",
+  "main": "places.js",
   "scripts": {
-    "start": "node index.js"
+    "start": "node dist/places.js"
   },
   "dependencies": {
     "express": "~4.9.x"
+  },
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-contrib-clean": "^0.6.0",
+    "grunt-contrib-concat": "^0.5.0",
+    "grunt-contrib-jshint": "^0.10.0",
+    "grunt-contrib-qunit": "^0.5.2",
+    "grunt-contrib-uglify": "^0.7.0",
+    "grunt-contrib-watch": "^0.6.1"
   },
   "engines": {
     "node": "0.10.x"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/vvillee/places"
+    "url": "https://github.com/vvillee/places.git"
   },
-  "keywords": [
-    "places"
-  ],
-  "license": "MIT"
+  "author": "Ville Pulkkinen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vvillee/places/issues"
+  },
+  "homepage": "https://github.com/vvillee/places"
 }
