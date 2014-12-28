@@ -1,0 +1,10 @@
+language: node_js
+node_js:
+- '0.10'
+deploy:
+  provider: heroku
+  api_key:
+    secure: MDRoDP3fxHXzxJaAqReTdKAJ9e3xpuTJ2H75ozl/LzbceuhCem1/DLCZxv2kzPJTHH7jp4R/YTjlQCZV2GQ0xQZCnMgS3iZoC471wvzCpyb+HodcBote4QDwKREzOBnmo1PC/h1ONUeKNTUb7IONeJVCUA6sPj+L+STwyirtaEs=
+  app: nearby-places-app
+  on:
+    repo: vvillee/places
