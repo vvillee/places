@@ -1,3 +1,5 @@
+[![Travis-CI build status]https://travis-ci.org/vvillee/places.svg?branch=master](https://travis-ci.org/vvillee/places)
+
 [![Stories in Ready](https://badge.waffle.io/vvillee/places.png?label=ready&title=Ready)](https://waffle.io/vvillee/places)
 [![Stories in In Progress](https://badge.waffle.io/vvillee/places.png?label=in%20progress&title=In%20Progress)](https://waffle.io/vvillee/places)
 
