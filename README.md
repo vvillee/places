@@ -28,4 +28,8 @@ Backend with Node.js and MongoDB database. This is deployable to Heroku with Mon
 
 ### Live
 
-https://atms-finland.herokuapp.com/
+https://nearby-places-app.herokuapp.com/
+
+### Draft wireframe for V1.0
+
+https://raw.githubusercontent.com/vvillee/places/master/docs/places-screens.png
