@@ -32,4 +32,4 @@ https://nearby-places-app.herokuapp.com/
 
 ### Draft wireframe for V1.0
 
-https://raw.githubusercontent.com/vvillee/places/master/docs/places-screens.png
+https://raw.githubusercontent.com/vvillee/places/master/docs/places_screens.png
