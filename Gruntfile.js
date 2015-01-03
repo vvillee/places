@@ -58,4 +58,6 @@ module.exports = function(grunt){
 
 	grunt.registerTask('default', ['clean', 'jshint', 'qunit', 'concat', 'uglify']);
 
+	grunt.registerTask('dist', ['clean', 'concat', 'uglify']);
+
 };
