@@ -8,5 +8,3 @@ deploy:
   app: nearby-places-app
   on:
     repo: vvillee/places
-before_deploy:
-  - "grunt dist"
